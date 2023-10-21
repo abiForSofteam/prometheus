@@ -53,6 +53,16 @@ git commit
 
 
 
+<pre>```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
+</pre>
+
+
+
+
 **Notes de bas de page**
 
 Here is a simple footnote[^1].
