@@ -62,19 +62,12 @@ git commit
 
 
 **Coloration de texte**
-
-```diff
-- rouge
-+ vert
-! orange
-```
-
 ```diff
 - rouge
 + vert
 ! orange
 # gris
-@@ violet@@
+@@ violet (et gras)@@
 ```
 
 
