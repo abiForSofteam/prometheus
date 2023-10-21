@@ -80,7 +80,7 @@ echo "je suis content";
 <br />
 <br />
 
-{\color{red}Welcome \color{lightblue}To \color{orange}Stackoverflow}
+$${\color{red}Welcome \color{lightblue}To \color{orange}Stackoverflow}$$
 
 ### Notes de bas de page
 
