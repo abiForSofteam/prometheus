@@ -40,3 +40,10 @@ git commit
 1. Premier élément de la liste
    - Premier niveau de la liste d'éléments
      - Second niveau de la liste d'éléments
+
+
+
+**Listes de tâches**
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
