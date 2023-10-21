@@ -27,6 +27,7 @@ git commit
 - Poire
 - Mangue
 
+```
 **Liste de légumes**
 1. Tomate
 1. Aubergine
@@ -34,3 +35,4 @@ git commit
 1. Poivron
 1. Oignon
 1. Navet
+```
