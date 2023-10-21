@@ -20,12 +20,13 @@ The background color is `#ffffff` for light mode and `#000000` for dark mode.
 <br/>
 <br/>
 
-# ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) **Quelques commandes basiques Git:** 
+### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) **Quelques commandes basiques Git:** 
 ```
 git status
 git add
 git commit
 ```
+
 <br/>
 <br/>
 
@@ -60,7 +61,7 @@ git commit
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
 
-# **Coloration de texte**
+### **Coloration de texte**
 ```diff
 - rouge
 + vert
@@ -68,8 +69,10 @@ git commit
 # gris
 @@ violet (et gras)@@
 ```
+
 <br />
 <br />
+
 ```php
 echo "je suis content";
 ```
@@ -77,7 +80,7 @@ echo "je suis content";
 
 
 
-**Notes de bas de page**
+###**Notes de bas de page**
 
 Here is a simple footnote[^1].
 
