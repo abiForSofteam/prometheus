@@ -20,7 +20,7 @@ The background color is `#ffffff` for light mode and `#000000` for dark mode.
 <br/>
 <br/>
 
-![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) **Quelques commandes basiques Git:** 
+# ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) **Quelques commandes basiques Git:** 
 ```
 git status
 git add
@@ -38,7 +38,7 @@ git commit
 - Mangue
 
 
-**Liste de légumes**
+# **Liste de légumes**
 1. Tomate
 1. Aubergine
 1. Champignon
@@ -47,22 +47,20 @@ git commit
 1. Navet
 
 
-**Listes imbriquées**
+# **Listes imbriquées**
 ```
 1. Premier élément de la liste
    - Premier niveau de la liste d'éléments
      - Second niveau de la liste d'éléments
 ```
 
-
-
-**Listes de tâches**
+# **Listes de tâches**
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
 
-**Coloration de texte**
+# **Coloration de texte**
 ```diff
 - rouge
 + vert
@@ -70,7 +68,8 @@ git commit
 # gris
 @@ violet (et gras)@@
 ```
-
+<br />
+<br />
 ```php
 echo "je suis content";
 ```
