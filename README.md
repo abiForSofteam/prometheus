@@ -61,7 +61,7 @@ git commit
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
 
-### **Coloration de texte**
+## **Coloration de texte**
 ```diff
 - rouge
 + vert
