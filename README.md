@@ -1,5 +1,5 @@
 # PROMETHEUS
-**##Monitoring avec prometheus**
+**Monitoring avec prometheus**
 
 'Prometheus est devenu le fournisseur et le récepteur de métriques dominant dans l' espace Kubernetes .' De nombreuses technologies exposent déjà leurs métriques au format de données Prometheus. D'autres proposent aux exportateurs de transformer les métriques de leur interface de surveillance dans un format compatible Prometheus. Cependant, le grand nombre de technologies et de mesures rend difficile d’en tirer le meilleur parti. Les deux principaux problèmes avec lesquels les utilisateurs sont confrontés sont :
 
@@ -11,7 +11,7 @@ Dynatrace prend désormais en charge les métriques Prometheus des pods Kubernet
 The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 
-   **<p>Quelques commandes basiques Git:</p>**
+   **<p style='color🔴'>Quelques commandes basiques Git:</p>**
 
 ```
 git status
