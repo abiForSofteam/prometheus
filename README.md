@@ -69,6 +69,14 @@ git commit
 ! orange
 ```
 
+```diff
+- rouge
++ vert
+! orange
+# gris
+@@ violet@@
+```
+
 
 
 
