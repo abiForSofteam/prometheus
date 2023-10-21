@@ -64,10 +64,9 @@ git commit
 **Coloration de texte**
 
 ```diff
-+ rouge
-- vert
-* ddd
-! ddazz
+- rouge
++ vert
+! orange
 ```
 
 
