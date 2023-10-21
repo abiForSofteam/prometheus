@@ -20,7 +20,7 @@ The background color is `#ffffff` for light mode and `#000000` for dark mode.
 <br/>
 <br/>
 
-![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) **<p style='text-decoration: underline'>Quelques commandes basiques Git:</p>** 
+![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) **Quelques commandes basiques Git:** 
 ```
 git status
 git add
