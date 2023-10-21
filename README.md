@@ -10,7 +10,7 @@ Dynatrace prend désormais en charge les métriques Prometheus des pods Kubernet
 
 The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
-Quelques commandes basiques Git:
+**Quelques commandes basiques Git:**
 ```
 git status
 git add
@@ -26,3 +26,11 @@ git commit
 - Pomme
 - Poire
 - Mangue
+
+  **Liste de légumes**
+  1. Tomate
+  1. Aubergine
+  1. Champignon
+  1. Poivron
+  1. Oignon
+  1. Navet
