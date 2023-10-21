@@ -76,11 +76,10 @@ git commit
 ```php
 echo "je suis content";
 ```
+<br />
+<br />
 
-
-
-
-###**Notes de bas de page**
+### Notes de bas de page
 
 Here is a simple footnote[^1].
 
