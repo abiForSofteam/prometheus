@@ -16,3 +16,13 @@ git status
 git add
 git commit
 ```
+
+
+
+**Liste de fruits**
++Banne
++Orange
++Cerise
++Pomme
++Poire
++Mangue
