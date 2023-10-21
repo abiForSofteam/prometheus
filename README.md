@@ -8,7 +8,7 @@ Mettre les métriques analysées en contexte avec d'autres piliers d'observabili
 Dynatrace prend désormais en charge les métriques Prometheus des pods Kubernetes, plaçant ces métriques dans le contexte plus large des microservices et des pods, et permettant des `#0969DA alertes améliorées avec une référence auto-adaptative de ces métriques`.
 >Ceci est un test
 
-`The background color is `#ffffff` for light mode and `#000000` for dark mode.`
+`The background color is #ffffff for light mode and #000000 for dark mode.`
 
 Some basic Git commands are:
 ```
