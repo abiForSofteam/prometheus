@@ -27,8 +27,9 @@ git commit
 - Poire
 - Mangue
 
-```
+
 **Liste de légumes**
+```
 1. Tomate
 1. Aubergine
 1. Champignon
