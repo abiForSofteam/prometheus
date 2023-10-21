@@ -9,3 +9,10 @@ Dynatrace prend désormais en charge les métriques Prometheus des pods Kubernet
 >Ceci est un test
 
 `#0969DACeci est un test`
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
