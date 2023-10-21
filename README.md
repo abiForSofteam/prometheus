@@ -36,8 +36,8 @@ git commit
 1. Oignon
 1. Navet
 
-```
-\*\*Listes imbriquées\*\*
+
+```**Listes imbriquées**
 1. Premier élément de la liste
    - Premier niveau de la liste d'éléments
      - Second niveau de la liste d'éléments
