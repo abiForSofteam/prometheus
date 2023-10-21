@@ -14,9 +14,9 @@ The background color is `#ffffff` for light mode and `#000000` for dark mode.
    
 
 <pre>
-
-**Quelques commandes basiques Git:** 
 ```
+**Quelques commandes basiques Git:** 
+
 git status
 git add
 git commit
