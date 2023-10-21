@@ -10,7 +10,9 @@ Dynatrace prend désormais en charge les métriques Prometheus des pods Kubernet
 
 The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
-**Quelques commandes basiques Git:**
+<p>
+   **Quelques commandes basiques Git:**
+</p>
 ```
 git status
 git add
