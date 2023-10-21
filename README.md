@@ -20,9 +20,9 @@ git commit
 
 
 **Liste de fruits**
-+Banne
-*Orange
--Cerise
-+Pomme
-*Poire
--Mangue
++ Banne
+* Orange
+- Cerise
++ Pomme
+* Poire
+- Mangue
