@@ -23,6 +23,6 @@ git commit
 + Banne
 + Orange
 - Cerise
-+ Pomme
-* Poire
+- Pomme
+- Poire
 - Mangue
