@@ -6,3 +6,4 @@
 Maintenir le fonctionnement de l'infrastructure Prometheus et maintenir à jour les configurations d'alerte pour toutes les métriques à l'échelle de l'entreprise
 Mettre les métriques analysées en contexte avec d'autres piliers d'observabilité, par exemple, des traces de microservices dans le pod qui exposent les métriques
 Dynatrace prend désormais en charge les métriques Prometheus des pods Kubernetes, plaçant ces métriques dans le contexte plus large des microservices et des pods, et permettant des `#0969DAalertes améliorées avec une référence auto-adaptative de ces métriques`.
+>Ceci est un test
