@@ -105,9 +105,8 @@ $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverf
 <br/>
 <br/>
 
- ## [Notes de bas de page](#)
-   Mes deux espaces
-     Encore deux espaces
+ [Notes de bas de page](#)
+
 
 Here is a simple footnote[^1].
 
