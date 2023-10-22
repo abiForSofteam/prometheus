@@ -5,7 +5,8 @@
 
 > ### [INSTALLATION](#)
 
-![image](https://github.com/abiForSofteam/prometheus/assets/56606441/6479c9ae-f9e2-4837-9ec7-1da4bdc1a940)
+![image](https://github.com/abiForSofteam/prometheus/assets/56606441/04abeec5-7963-4047-ad40-bf44d0811acb)
+
 
 ![image](https://github.com/abiForSofteam/prometheus/assets/56606441/5b914b76-6dd3-49d5-91a2-feb33db81afc)
 
