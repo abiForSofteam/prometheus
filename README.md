@@ -15,18 +15,6 @@ Dynatrace prend désormais en charge les métriques Prometheus des pods Kubernet
 <br/>
 <br/>
 
->Ceci est un test
-
-<br/>
-<br/>
-
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
-- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
-- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
-
-<br/>
-<br/>
-
 > ### [Quelques commandes basiques Git](#)
 ```
 git status
@@ -45,6 +33,9 @@ git commit
 - Poire
 - Mangue
 
+<br/>
+<br/>
+
 
 > ### [Liste de légumes](#)
 1. Tomate
@@ -54,6 +45,9 @@ git commit
 1. Oignon
 1. Navet
 
+<br/>
+<br/>
+
 
 > ### [Listes imbriquées](#)
 ```
@@ -62,10 +56,16 @@ git commit
      - Second niveau de la liste d'éléments
 ```
 
+<br/>
+<br/>
+
 > ### [Listes de tâches](#)
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
+
+<br/>
+<br/>
 
 
 > ### [Coloration de texte](#)
@@ -79,6 +79,15 @@ git commit
 
 <br />
 <br />
+
+<br/>
+<br/>
+
+### QUelques coleurs :###
+
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
+- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
 
 ```php
 echo "je suis content";
