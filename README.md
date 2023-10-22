@@ -8,7 +8,8 @@
 ![image](https://github.com/abiForSofteam/prometheus/assets/56606441/04abeec5-7963-4047-ad40-bf44d0811acb)
 
 
-![image](https://github.com/abiForSofteam/prometheus/assets/56606441/a93cc6d3-eebc-45c2-ba94-692f9e823ad7)
+![image](https://github.com/abiForSofteam/prometheus/assets/56606441/a9063d01-0bad-49be-9ea5-5d68021e1d3d)
+
 
 
 
