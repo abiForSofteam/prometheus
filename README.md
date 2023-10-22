@@ -105,7 +105,9 @@ $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverf
 <br/>
 <br/>
 
- [Notes de bas de page](#)
+> ## [Notes de bas de page](#)
+
+Test ligne[^2].
 
 
 Here is a simple footnote[^1].
