@@ -11,9 +11,11 @@ Maintenir le fonctionnement de l'infrastructure Prometheus et maintenir à jour 
 Mettre les métriques analysées en contexte avec d'autres piliers d'observabilité, par exemple, des traces de microservices dans le pod qui exposent les métriques
 Dynatrace prend désormais en charge les métriques Prometheus des pods Kubernetes, plaçant ces métriques dans le contexte plus large des microservices et des pods, et permettant des alertes améliorées avec une référence auto-adaptative de ces métriques.
 
->Ceci est un test
 
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+<br/>
+<br/>
+
+>Ceci est un test
 
 <br/>
 <br/>
@@ -25,7 +27,7 @@ The background color is `#ffffff` for light mode and `#000000` for dark mode.
 <br/>
 <br/>
 
-### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) **Quelques commandes basiques Git:** 
+> ### [Quelques commandes basiques Git](#)
 ```
 git status
 git add
@@ -35,7 +37,7 @@ git commit
 <br/>
 <br/>
 
-# **Liste de fruits**
+> ### [Liste de fruits](#)
 - Banne
 - Orange
 - Cerise
@@ -44,7 +46,7 @@ git commit
 - Mangue
 
 
-# **Liste de légumes**
+> ### [Liste de légumes](#)
 1. Tomate
 1. Aubergine
 1. Champignon
@@ -53,20 +55,20 @@ git commit
 1. Navet
 
 
-# **Listes imbriquées**
+> ### [Listes imbriquées](#)
 ```
 1. Premier élément de la liste
    - Premier niveau de la liste d'éléments
      - Second niveau de la liste d'éléments
 ```
 
-# **Listes de tâches**
+> ### [Listes de tâches](#)
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
 
-## **Coloration de texte**
+> ### [Coloration de texte](#)
 ```diff
 - rouge
 + vert
@@ -92,7 +94,7 @@ $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverf
 <br/>
 <br/>
 
-### Notes de bas de page
+> ### Notes de bas de page](#)
 
 Here is a simple footnote[^1].
 
