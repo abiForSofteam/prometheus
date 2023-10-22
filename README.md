@@ -16,7 +16,7 @@ Dynatrace prend désormais en charge les métriques Prometheus des pods Kubernet
 <br/>
 
 > ### [Quelques commandes basiques Git](#)
-```
+```git
 git status
 git add
 git commit
@@ -80,6 +80,7 @@ git commit
 
 <br />
 <br />
+
 ### code php ###
 ```php
 echo "je suis content";
