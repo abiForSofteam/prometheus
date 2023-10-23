@@ -1,4 +1,4 @@
-# ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [MONITORING AVEC PROMETHEUS](#)
+# ![#f03c15](https://placehold.co/5x5/f03c15/f03c15.png) [MONITORING AVEC PROMETHEUS](#)
 
 <br/>
 <br/>
