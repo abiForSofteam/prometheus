@@ -3,7 +3,7 @@
 <br/>
 <br/>
 
-<p align="center">Titre centré</p>
+# <p align="center">Titre centré</p>
 
 > ### [INSTALLATION](#)
 
