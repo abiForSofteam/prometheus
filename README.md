@@ -5,7 +5,7 @@
 
 # [<p align="center">Titre centré</p>](#)
 
-> ### ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [INSTALLATION](#)
+> ### [INSTALLATION](#)
 
 ![image](https://github.com/abiForSofteam/prometheus/assets/56606441/04abeec5-7963-4047-ad40-bf44d0811acb)
 
